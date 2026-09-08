@@ -84,7 +84,7 @@ SL_CustomPrefs.Get = function()
 		},
 		DefaultSort =
 		{
-			Default = "Series",
+			Default = "Group",
 			Choices = {
 				THEME:GetString("ScreenSelectMusic", "Series"),
 				THEME:GetString("ScreenSelectMusic", "Group"),
